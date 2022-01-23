@@ -1,16 +1,13 @@
-### Hi there 👋
+I mostly write (really) small utility libraries and tools.
+Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/), most of them are mirrored.
 
-<!--
-**smheidrich/smheidrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💯 More or less "finished" or at least usable
+  - [pickle-spree](https://github.com/smheidrich/pickle-spree)
+  - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
+  - [asyncio-rpc-aiopqueue](https://github.com/smheidrich/asyncio-rpc-aiopqueue)
+  - [mpdispatcher](https://github.com/smheidrich/mpdispatcher)
+  - [omniwarn](https://github.com/smheidrich/omniwarn/)
+- 👴 Perpetually unfinished, will finish "one day"
+  - [pathlib-fs](https://github.com/smheidrich/pathlib-fs)
+- 🕸 Old stuff, don't know if it still works
+  - [zusammhg](https://github.com/smheidrich/zusammhg)
