@@ -2,6 +2,7 @@ I mostly write (really) small utility libraries and tools.
 Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/), most of them are mirrored.
 
 - 💯 More or less "finished" or at least usable
+  - [json-stream-rs-tokenizer](https://github.com/smheidrich/py-json-stream-rs-tokenizer)
   - [pickle-spree](https://github.com/smheidrich/pickle-spree)
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
   - [omniwarn](https://github.com/smheidrich/omniwarn/)
