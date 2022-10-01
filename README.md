@@ -7,9 +7,8 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [omniwarn](https://github.com/smheidrich/omniwarn/)
   - [asyncio-rpc-aiopqueue](https://github.com/smheidrich/asyncio-rpc-aiopqueue)
   - [mpdispatcher](https://github.com/smheidrich/mpdispatcher)
+  - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)  
 - 👴 Perpetually unfinished, will finish "one day"
   - [pathlib-fs](https://github.com/smheidrich/pathlib-fs)
-- 😖 Used to work but is now broken for some reason
-  - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)  
 - 🕸 Old stuff, don't know if it still works
   - [zusammhg](https://github.com/smheidrich/zusammhg)
