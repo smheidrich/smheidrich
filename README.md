@@ -8,7 +8,10 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [asyncio-rpc-aiopqueue](https://github.com/smheidrich/asyncio-rpc-aiopqueue)
   - [mpdispatcher](https://github.com/smheidrich/mpdispatcher)
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)  
+  - [postprocess-sdist-make-rust-ext-opt](https://github.com/smheidrich/postprocess-sdist-make-rust-ext-opt)
 - 👴 Perpetually unfinished, will finish "one day"
   - [pathlib-fs](https://github.com/smheidrich/pathlib-fs)
 - 🕸 Old stuff, don't know if it still works
   - [zusammhg](https://github.com/smheidrich/zusammhg)
+- 🗒 Blog-like
+  - [Comparison of pytest data file access plugins](https://github.com/smheidrich/comparison-of-pytest-data-file-access-plugins)
