@@ -14,3 +14,4 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [zusammhg](https://github.com/smheidrich/zusammhg)
 - 🗒 Blog-like
   - [Comparison of pytest data file access plugins](https://github.com/smheidrich/comparison-of-pytest-data-file-access-plugins)
+  - [Comparison of generalized diff libraries for Python](https://github.com/smheidrich/comparison-of-generalized-diff-libraries-for-python)
