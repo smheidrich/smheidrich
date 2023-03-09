@@ -10,8 +10,8 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [pypi-token-client](https://gitlab.com/smheidrich/pypi-token-client)
 - 🤷 Useful for me but not very polished
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
-  - [cawspr](https://gitlab.com/smheidrich/cawspr)
-  - [full-apply](https://gitlab.com/smheidrich/full-apply)
+  - [cawspr](https://github.com/smheidrich/cawspr)
+  - [full-apply](https://github.com/smheidrich/full-apply)
 - 👴 Perpetually unfinished, will finish "one day"
   - [pathlib-fs](https://github.com/smheidrich/pathlib-fs)
 - 🕸 Old stuff, don't know if it still works
