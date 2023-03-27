@@ -7,7 +7,7 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [asyncio-rpc-aiopqueue](https://github.com/smheidrich/asyncio-rpc-aiopqueue)
   - [mpdispatcher](https://github.com/smheidrich/mpdispatcher)
   - [postprocess-sdist-make-rust-ext-opt](https://github.com/smheidrich/postprocess-sdist-make-rust-ext-opt)
-  - [pypi-token-client](https://gitlab.com/smheidrich/pypi-token-client)
+  - [pypi-token-client](https://github.com/smheidrich/pypi-token-client)
 - 🤷 Useful for me but not very polished
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
   - [cawspr](https://github.com/smheidrich/cawspr)
