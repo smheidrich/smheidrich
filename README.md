@@ -9,6 +9,7 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [postprocess-sdist-make-rust-ext-opt](https://github.com/smheidrich/postprocess-sdist-make-rust-ext-opt)
   - [pypi-token-client](https://github.com/smheidrich/pypi-token-client)
   - [github-fine-grained-token-client](https://github.com/smheidrich/github-fine-grained-token-client)
+  - [Mondir](https://github.com/smheidrich/mondir)
 - 🤷 Useful for me but not very polished
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
   - [cawspr](https://github.com/smheidrich/cawspr)
