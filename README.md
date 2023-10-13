@@ -3,13 +3,13 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
 
 - 💯 More or less "finished" or at least usable
   - [json-stream-rs-tokenizer](https://github.com/smheidrich/py-json-stream-rs-tokenizer)
+  - [Mondir](https://github.com/smheidrich/mondir)
   - [pickle-spree](https://github.com/smheidrich/pickle-spree)
   - [asyncio-rpc-aiopqueue](https://github.com/smheidrich/asyncio-rpc-aiopqueue)
   - [mpdispatcher](https://github.com/smheidrich/mpdispatcher)
   - [postprocess-sdist-make-rust-ext-opt](https://github.com/smheidrich/postprocess-sdist-make-rust-ext-opt)
   - [pypi-token-client](https://github.com/smheidrich/pypi-token-client)
   - [github-fine-grained-token-client](https://github.com/smheidrich/github-fine-grained-token-client)
-  - [Mondir](https://github.com/smheidrich/mondir)
 - 🤷 Useful for me but not very polished
   - [skim-unicode-table](https://github.com/smheidrich/skim-unicode-table)
   - [cawspr](https://github.com/smheidrich/cawspr)
@@ -21,3 +21,4 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
 - 🗒 Blog-like
   - [Comparison of pytest data file access plugins](https://github.com/smheidrich/comparison-of-pytest-data-file-access-plugins)
   - [Comparison of generalized diff libraries for Python](https://github.com/smheidrich/comparison-of-generalized-diff-libraries-for-python)
+  - [How difficult is it to write a Terraform provider in a language other than Go?](https://github.com/smheidrich/non-go-terraform-provider-assessment)
