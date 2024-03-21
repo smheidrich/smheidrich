@@ -21,4 +21,5 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
 - 🗒 Blog-like
   - [Comparison of pytest data file access plugins](https://github.com/smheidrich/comparison-of-pytest-data-file-access-plugins)
   - [Comparison of generalized diff libraries for Python](https://github.com/smheidrich/comparison-of-generalized-diff-libraries-for-python)
+  - [Comparison of Python startup accelerators](https://github.com/smheidrich/comparison-of-python-startup-accelerators)
   - [How difficult is it to write a Terraform provider in a language other than Go?](https://github.com/smheidrich/non-go-terraform-provider-assessment)
