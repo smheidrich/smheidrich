@@ -2,8 +2,8 @@ I mostly write (really) small utility libraries and tools.
 Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/), most of them are mirrored.
 
 - 💯 More or less "finished" or at least usable
-  - [json-stream-rs-tokenizer](https://github.com/smheidrich/py-json-stream-rs-tokenizer)
   - [Mondir](https://github.com/smheidrich/mondir)
+  - [json-stream-rs-tokenizer](https://github.com/smheidrich/py-json-stream-rs-tokenizer)
   - [pypi-token-client](https://github.com/smheidrich/pypi-token-client)
   - [github-fine-grained-token-client](https://github.com/smheidrich/github-fine-grained-token-client)
   - [postprocess-sdist-make-rust-ext-opt](https://github.com/smheidrich/postprocess-sdist-make-rust-ext-opt)
@@ -24,3 +24,4 @@ Repositories are split between here and [GitLab](https://gitlab.com/smheidrich/)
   - [Comparison of generalized diff libraries for Python](https://github.com/smheidrich/comparison-of-generalized-diff-libraries-for-python)
   - [Comparison of Python startup accelerators](https://github.com/smheidrich/comparison-of-python-startup-accelerators)
   - [How difficult is it to write a Terraform provider in a language other than Go?](https://github.com/smheidrich/non-go-terraform-provider-assessment)
+  - [Monolithic vs plugin-based file conversion command-line tools](https://github.com/smheidrich/monolithic-vs-plugin-based-file-conversion-cli)
